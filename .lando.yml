@@ -1,0 +1,4 @@
+name: install-dir
+recipe: drupal10
+config:
+  webroot: /
